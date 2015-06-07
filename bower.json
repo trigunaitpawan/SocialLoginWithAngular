@@ -1,0 +1,15 @@
+{
+"name":"SocialLoginWithAngular",
+"version":	"V1.0.0.0",
+"dependencies":{
+"angular":					"",
+"angular-route":			"",
+"angular-sanitize":			"",
+"angular-mocks":			"",
+"jquery":					"",
+"underscore":				"",
+"restangular":				""
+},
+"analytics":false
+
+}
